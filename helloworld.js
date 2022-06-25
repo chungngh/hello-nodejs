@@ -1,2 +1,2 @@
 console.log(" NodeJS Hellow World ! \n");
-console.log(" Aloha from Node ");
+console.log(" Aloha World from Node ");
